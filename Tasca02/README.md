@@ -33,6 +33,6 @@ Redacció d’un informe amb:
 - Models analitzats  
 - Justificació de la selecció final
 
-[Anar a la solucio](../solucio.md)
+[Anar a la solució](../solucio.md)
 
 [Anar a la pàgina inicial](../README.md)

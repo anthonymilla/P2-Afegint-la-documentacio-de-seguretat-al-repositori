@@ -1,5 +1,5 @@
 # SELECCIÓ D’UN SAI PER UNA EMPRESA CLIENT
-
+![SAI_Portada](img/Imatge01.png)
 # 1. DESCRIPCIÓ DEL CAS
 
 ## Tasques a realitzar  
@@ -44,13 +44,13 @@
 
 COMPARACIÓ
 
-| Model                      | Potència (VA/W)      | Autonomia estimada | Sortides      | Preu aprox. | Marca  |
-|----------------------------|---------------------|--------------------|---------------|-------------|--------|
-| Salicru SPS 1600 SOHO+ IEC | 1600 VA / 960 W     | 10-15 minuts       | 4 IEC + USB   | 190 €       | Salicru|
-| APC Easy UPS BVX1600LI      | 1600 VA / 900 W     | 10-12 minuts       | 6 IEC C13     | 181 €       | APC    |
-| Eaton 5E Gen2 1600 USB DIN  | 1600 VA / 960 W     | 10-15 minuts       | 4 DIN + USB   | 185 €       | Eaton  |
+| Model                      | Potència (VA/W)      | Autonomia estimada | Sortides      | Preu aprox. | Marca  | Captures |
+|----------------------------|---------------------|--------------------|---------------|-------------|--------|-----------|
+| Salicru SPS 1600 SOHO+ IEC | 1600 VA / 960 W     | 10-15 minuts       | 4 IEC + USB   | 190 €       | Salicru|![SAI_Model_Salicru SPS 1600 SOHO+ IEC](img/Imatge02.png)|
+| APC Easy UPS BVX1600LI      | 1600 VA / 900 W     | 10-12 minuts       | 6 IEC C13     | 181 €       | APC    |![SAI_Model_APC Easy UPS BVX1600LI](img/Imatge03.png)|
+| Eaton 5E Gen2 1600 USB DIN  | 1600 VA / 960 W     | 10-15 minuts       | 4 DIN + USB   | 185 €       | Eaton  |![SAI_Model_Eaton 5E Gen2 1600 USB DIN](img/Imatge04.png)|
 
-# Informe tècnic/Justificació de la selecció final  
+# 5. Informe tècnic/Justificació de la selecció final  
 Redacció d'un informe amb:  
 - Càlculs realitzats  
 - Models analitzats  

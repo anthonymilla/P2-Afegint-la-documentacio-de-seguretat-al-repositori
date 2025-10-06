@@ -74,3 +74,4 @@ Redacció d'un informe amb:
 - Disposa de sortides compatibles i ports USB addicionals.  
 - Marca fiable i orientada a entorns professionals.
 
+[Anar a la pàgina inicial](../README.md)

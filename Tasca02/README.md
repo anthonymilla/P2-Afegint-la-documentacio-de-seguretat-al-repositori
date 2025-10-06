@@ -6,25 +6,25 @@ S’han posat en contacte amb l’empresa on esteu fent l’estada i el vostre r
 
 ## Tasques a realitzar
 
-## Inventari d’equips
+## 1. Inventari d’equips
 
-## Llista dels dispositius que es connectaran al SAI (ordinadors, monitors, router, etc.), justifiqueu si hi ha algun aparell que no hi connectareu al sistema d’alimentació ininterrompuda.
+- Llista dels dispositius que es connectaran al SAI (ordinadors, monitors, router, etc.), justifiqueu si hi ha algun aparell que no hi connectareu al sistema d’alimentació ininterrompuda.
 
-## Consulta de les especificacions tècniques per obtenir el consum de cada dispositiu. Seleccioneu components que s’ajustin als que podríeu trobar-vos a la seu del client. Indiqueu clarament les dades del component triat i els valors de watts i VA corresponents.
+- Consulta de les especificacions tècniques per obtenir el consum de cada dispositiu. Seleccioneu components que s’ajustin als que podríeu trobar-vos a la seu del client. Indiqueu clarament les dades del component triat i els valors de watts i VA corresponents.
 
 ## Càlcul de potència total
 
-Valor total de potència i valor incloent la reserva del 20%.
+-Valor total de potència i valor incloent la reserva del 20%.
 
 ## Determinació de l’autonomia
 
-Estimació del temps mínim que el SAI ha de mantenir els equips en funcionament (ex. 10 minuts per guardar treballs i apagar correctament).
+-Estimació del temps mínim que el SAI ha de mantenir els equips en funcionament (ex. 10 minuts per guardar treballs i apagar correctament).
 
 ## Recerca de models de SAI
 
-Cerca de 2 o 3 models de SAI que compleixin els requisits.
+-Cerca de 2 o 3 models de SAI que compleixin els requisits.
 
-Comparació de característiques: potència, autonomia, tipus de sortides, preu, marca.
+-Comparació de característiques: potència, autonomia, tipus de sortides, preu, marca.
 
 ## Informe tècnic
 

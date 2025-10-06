@@ -34,4 +34,5 @@ Redacció d’un informe amb:
 - Justificació de la selecció final
 
 [Anar a la solucio](../solucio.md)
+
 [Anar a la pàgina inicial](../README.md)

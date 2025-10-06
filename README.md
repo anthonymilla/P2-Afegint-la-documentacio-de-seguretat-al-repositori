@@ -9,3 +9,5 @@ Crear una carpeta img a cadascuna de les dues carpetes i pugeu les imatges de le
 Crear a cada repositori un arxiu anomenat solucio.md on documentareu la tasca. Aquest document haurà de contenir la documentació en format MarkDown. En aquest document també haureu d'incloure les imatges.
 Assegurar que al vincle de cada imatge hi hagi una descripció alternativa.
 
+## Tasques
+- [Tasca2](/Tasca02)

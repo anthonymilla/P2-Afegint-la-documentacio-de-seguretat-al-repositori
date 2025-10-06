@@ -22,3 +22,5 @@ Investigueu el procediment per tal que l’accés al GRUB quedi protegit per con
 - Apunts RA1AA4 Seguretat Lògica
 - Recuperant Password en Linux:
 - [Link](https://waytoit.wordpress.com/2013/06/06/recuperando-password-en-ubuntu/).
+
+[Anar a la pàgina inicial](../README.md)

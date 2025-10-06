@@ -12,21 +12,21 @@ S’han posat en contacte amb l’empresa on esteu fent l’estada i el vostre r
 
 - Consulta de les especificacions tècniques per obtenir el consum de cada dispositiu. Seleccioneu components que s’ajustin als que podríeu trobar-vos a la seu del client. Indiqueu clarament les dades del component triat i els valors de watts i VA corresponents.
 
-## Càlcul de potència total
+## 2. Càlcul de potència total
 
 -Valor total de potència i valor incloent la reserva del 20%.
 
-## Determinació de l’autonomia
+## 3. Determinació de l’autonomia
 
 -Estimació del temps mínim que el SAI ha de mantenir els equips en funcionament (ex. 10 minuts per guardar treballs i apagar correctament).
 
-## Recerca de models de SAI
+## 4. Recerca de models de SAI
 
 -Cerca de 2 o 3 models de SAI que compleixin els requisits.
 
 -Comparació de característiques: potència, autonomia, tipus de sortides, preu, marca.
 
-## Informe tècnic
+## 5. Informe tècnic
 
 Redacció d’un informe amb:  
 - Càlculs realitzats  

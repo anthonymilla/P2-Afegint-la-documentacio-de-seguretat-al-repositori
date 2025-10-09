@@ -78,3 +78,5 @@ La proposta garanteix una web estable, escalable i fàcilment gestionable per al
 ## 6. Conclusions
 Els criteris decisius han estat **fiabilitat, seguretat i cost total**.  
 Aquesta opció garanteix una presència online professional, segura i escalable per al creixement del negoci B2B.
+
+[Anar a l'enunciat](../Tasca08/README.md)

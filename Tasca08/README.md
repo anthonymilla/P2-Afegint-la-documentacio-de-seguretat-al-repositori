@@ -34,3 +34,4 @@ Aquesta documentació servirà com a base per a la **presentació del Producte P
 
 ---
 
+[Anar a la solució](../Tasca08/solucio.md)

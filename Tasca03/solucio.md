@@ -40,6 +40,10 @@ Protegir el GRUB no és realment suficient, ja que també cal xifrar les partici
 
 [Font d'informació que he usat](https://geekland.eu/proteger-el-grub-con-contrasena/).
 
+- ## Configura la màquina virtual per tal de fortificar l’accés al GRUB
+Ara protegirem el GRUB, posant la següent comanda:
+![Creant la màquina virtual, memòria base i processors](img/Imatge08.png)
+
 
 [Anar a l'enunciat](../Tasca02/README.md)
 [Anar a la pàgina inicial](../README.md)

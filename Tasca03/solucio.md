@@ -1,6 +1,7 @@
 # T03: Seguretat Lògica: recuperant accés a sistemes
 
 - ## Vulneració de l’accés al GRUB del Linux
+Creem la nova màquina i posem la ISO.
 ![Creant la màquina virtual, posant la ISO](img/Imatge11.png)
 ![Creant la màquina virtual, memòria base i processors](img/Imatge10.png)
 ![Posem el disc a SATA](img/Imatge09.png)

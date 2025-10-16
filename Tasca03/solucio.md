@@ -42,3 +42,5 @@ Protegir el GRUB no és realment suficient, ja que també cal xifrar les partici
 
 
 [Anar a l'enunciat](../Tasca02/README.md)
+[Anar a la pàgina inicial](../README.md)
+

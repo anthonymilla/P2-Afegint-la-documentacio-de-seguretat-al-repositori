@@ -24,4 +24,5 @@ Investigueu el procediment per tal que l’accés al GRUB quedi protegit per con
 - [Link](https://waytoit.wordpress.com/2013/06/06/recuperando-password-en-ubuntu/).
 
 [Anar a la pàgina inicial](../README.md)
+
 [Anar a la solució](../Tasca03/solucio.md)

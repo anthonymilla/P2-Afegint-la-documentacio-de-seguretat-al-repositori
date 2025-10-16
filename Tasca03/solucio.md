@@ -38,3 +38,4 @@ Si no està protegit, qualsevol persona amb accés físic pot modificar els par�
 ## Més mesures de seguretat:
 Protegir el GRUB no és realment suficient, ja que també cal xifrar les particions, protegir la BIOS/UEFI amb contrasenya, també impedir l’arrencada des de dispositius externs i limitar l’accés físic a l’ordinador.
 
+[Font d'informació que he usat](https://geekland.eu/proteger-el-grub-con-contrasena/).

@@ -3,21 +3,22 @@
 - ## Vulneració de l’accés al GRUB del Linux
 ![Creant la màquina virtual, posant la ISO](img/Imatge11.png)
 ![Creant la màquina virtual, memòria base i processors](img/Imatge10.png)
-![Creant la màquina virtual, memòria base i processors](img/Imatge09.png)
+![Posem el disc a SATA](img/Imatge09.png)
 
 Al iniciar la màquina fem shift + f (qualsevol tecla) i ens entrarà aquí al menú d'arrencada de Zorin:
-![Creant la màquina virtual, memòria base i processors](img/Imatge08.png)
-![Creant la màquina virtual, memòria base i processors](img/Imatge07.png)
-![Creant la màquina virtual, memòria base i processors](img/Imatge06.png)
-![Creant la màquina virtual, memòria base i processors](img/Imatge05.png)
+![fem shift + f o qualsevol tecla per entrar al menú d'arrencada de Zorin](img/Imatge08.png)
+![Escollim Zorin recovery mode](img/Imatge07.png)
+![Escollim per poder posar-nos com a root](img/Imatge06.png)
+![Root](img/Imatge05.png)
 
 - ## Identifiqueu l’usuari del sistema.
 
-![Creant la màquina virtual, memòria base i processors](img/Imatge04.png)
-![Creant la màquina virtual, memòria base i processors](img/Imatge03.png)
+![Identificant l’usuari del sistema](img/Imatge04.png)
+
+![Identificant l’usuari del sistema](img/Imatge03.png)
 - ## Modifiqueu la contrasenya de l’usuari i verifiqueu que ara ja té accés.
-![Creant la màquina virtual, memòria base i processors](img/Imatge02.png)
-![Creant la màquina virtual, memòria base i processors](img/Imatge01.png)
+![Modificant la contrasenya de l’usuari i verificant que ara ja té accés](img/Imatge02.png)
+![Modificant la contrasenya de l’usuari i verificant que ara ja té accés](img/Imatge01.png)
 
 - ## Investigueu com es pot fortificar l’accés al GRUB. És molt important que indiquis les fonts d’informació que usis.
 
@@ -42,9 +43,23 @@ Protegir el GRUB no és realment suficient, ja que també cal xifrar les partici
 
 - ## Configura la màquina virtual per tal de fortificar l’accés al GRUB
 Ara protegirem el GRUB, posant la següent comanda:
-![Creant la màquina virtual, memòria base i processors](img/Imatge08.png)
+![Protegint el GRUB](img/Imatge12.png)
 
+Ara editarem l’arxiu, posem aquesta comanda:                          
+![Editarem l'arxiu](img/Imatge13.png)
 
-[Anar a l'enunciat](../Tasca02/README.md)
+Seguidament el guardarem a salida.txt amb control+R.
+![El guardarem a salida.txt amb control+R](img/Imatge14.png)
+
+Ara posarem l’autenticació.
+![Posant l’autenticació.](img/Imatge15.png)
+
+Seguidament posem la següent comanda:
+![Per mirar si tot està correcta](img/Imatge16.png)
+
+I per finalitzar fem la comprovació.               
+![Comprovació](img/Imatge17.png)
+
+[Anar a l'enunciat](../Tasca02/README.md)                 
 [Anar a la pàgina inicial](../README.md)
 

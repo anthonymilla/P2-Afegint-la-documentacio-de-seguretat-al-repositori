@@ -34,5 +34,5 @@ Aquesta documentació servirà com a base per a la **presentació del Producte P
 
 ---
 
-[Anar a la pàgina inicial](../README.md)
+[Anar a la pàgina inicial](../README.md)                                
 [Anar a la solució](../Tasca08/solucio.md)

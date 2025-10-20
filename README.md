@@ -1,4 +1,4 @@
-# Projecte 2-Afegint la documentacio de seguretat al repositori
+# Projecte 2 - Afegint la documentacio de seguretat al repositori
 
 Al llarg d’aquest projecte heu estat documentant una sèrie de guies. Però de poc en serveix fer guies tècniques en documents si després no són fàcilment accessibles. Es crea un problema que s’anomena data silo. Per evitar-lo, aprofitarem que tot just hem començat a treballar amb el control de versions (git i GitHub) i crearem un repositori que inclourà la documentació en format markdown.
 Crear un repositori que es digui Projecte2.
